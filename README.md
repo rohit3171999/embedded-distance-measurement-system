@@ -8,7 +8,7 @@ An embedded distance measurement system using an ultrasonic sensor (HC-SR04) for
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - Project Overview
 - Hardware Requirements
@@ -23,7 +23,7 @@ An embedded distance measurement system using an ultrasonic sensor (HC-SR04) for
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project demonstrates distance measurement using an HC-SR04 ultrasonic sensor and Arduino (Uno R4 recommended).
 
@@ -45,7 +45,7 @@ This project introduces:
 
 ---
 
-## 🔧 Hardware Requirements
+## Hardware Requirements
 
 - Arduino Uno R4
 - HC-SR04 Ultrasonic Sensor
@@ -55,7 +55,7 @@ This project introduces:
 
 ---
 
-## 💻 Software Requirements
+## Software Requirements
 
 - Arduino IDE
 - Git
@@ -63,7 +63,7 @@ This project introduces:
 
 ---
 
-## 🔌 Wiring Connections
+## Wiring Connections
 
 | HC-SR04 Pin | Arduino |
 |-------------|----------|
@@ -85,7 +85,7 @@ Distance (cm) = (Duration × 0.0343) / 2
 
 ---
 
-## 🧠 Code Structure
+## Code Structure
 
 The system:
 
@@ -114,7 +114,7 @@ Students must include:
 
 ---
 
-## 📊 Submission Requirements
+## Submission Requirements
 
 - Minimum 5 meaningful commits
 - Proper commit message format
@@ -124,7 +124,7 @@ Students must include:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add buzzer alert for close object
 - Integrate with servo for radar scanning
